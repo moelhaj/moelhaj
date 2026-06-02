@@ -2,8 +2,6 @@
 
 # Hi, I'm Mohamed Elhaj 👋
 
-**♫♪ + ☕ = Great Software**
-
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40moelhaj-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/moelhaj) [![Website](https://www.shieldcn.dev/badge/Website-moelhaj.github.io-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://moelhaj.github.io/)
 
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/moelhaj.svg?variant=secondary&size=sm)](https://github.com/moelhaj?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/moelhaj.svg?variant=secondary&size=sm)](https://github.com/moelhaj?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-27-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/moelhaj?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Dubai-6366f1.svg?logo=googlemaps&variant=ghost&size=sm)
