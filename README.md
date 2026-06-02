@@ -17,7 +17,3 @@
 ## 📦 Top Repositories
 
 [![bug-tracker ⭐ 3](https://www.shieldcn.dev/github/stars/moelhaj/bug-tracker.svg?variant=secondary&size=sm)](https://github.com/moelhaj/bug-tracker) [![expenses-tracker-react-native ⭐ 3](https://www.shieldcn.dev/github/stars/moelhaj/expenses-tracker-react-native.svg?variant=secondary&size=sm)](https://github.com/moelhaj/expenses-tracker-react-native) [![php-employees-management ⭐ 3](https://www.shieldcn.dev/github/stars/moelhaj/php-employees-management.svg?variant=secondary&size=sm)](https://github.com/moelhaj/php-employees-management) [![acme-inc ⭐ 1](https://www.shieldcn.dev/github/stars/moelhaj/acme-inc.svg?variant=secondary&size=sm)](https://github.com/moelhaj/acme-inc) [![moelhaj.github.io ⭐ 1](https://www.shieldcn.dev/github/stars/moelhaj/moelhaj.github.io.svg?variant=secondary&size=sm)](https://github.com/moelhaj/moelhaj.github.io) [![elt-pipeline ⭐ 1](https://www.shieldcn.dev/github/stars/moelhaj/elt-pipeline.svg?variant=secondary&size=sm)](https://github.com/moelhaj/elt-pipeline)
-
----
-
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
